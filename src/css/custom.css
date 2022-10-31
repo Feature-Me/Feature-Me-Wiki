@@ -5,6 +5,12 @@
  */
 
 /* You can override the default Infima variables here. */
+
+@font-face {
+  font-family: "Julius Sans One";
+  src: url("/static/JuliusSansOne-Regular.ttf");
+}
+
 :root {
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
@@ -15,6 +21,7 @@
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --font-title: "Julius Sans One";
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */

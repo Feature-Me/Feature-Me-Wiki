@@ -67,13 +67,13 @@ const config = {
             type: 'doc',
             docId: 'for_player',
             position: 'left',
-            label: 'For Players',
+            label: 'Play Guide',
           },
           {
             type: 'doc',
             docId: 'for_dev',
             position: 'left',
-            label: 'For Developers',
+            label: 'Developers Docs',
           },
           {
             type: 'doc',
